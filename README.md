@@ -16,4 +16,4 @@ Create an **interactive real-time dashboard** for 911 operators and respondents 
 - **n8n** — workflow automation  
 - **Looker Studio** — interactive dashboard  
 
-### 🌟 You can access the dashboard [here]!(https://lookerstudio.google.com/reporting/9e2b060c-5fa6-41c8-bd12-ac7ca8d9780e)
+### 🌟 You can access the dashboard [here!](https://lookerstudio.google.com/reporting/9e2b060c-5fa6-41c8-bd12-ac7ca8d9780e)
