@@ -17,3 +17,5 @@ Create an **interactive real-time dashboard** for 911 operators and respondents 
 - **Looker Studio** — interactive dashboard  
 
 ### 🌟 You can access the dashboard [here!](https://lookerstudio.google.com/reporting/9e2b060c-5fa6-41c8-bd12-ac7ca8d9780e)
+
+<img width="953" height="720" alt="Capture d’écran 2025-10-13 à 11 48 13" src="https://github.com/user-attachments/assets/d3e98443-6e9a-4537-8969-1eb4573e8ebb" />
